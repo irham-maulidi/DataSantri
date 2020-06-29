@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Data_Santri</string>
+
+    <string name="notification_title">notifikasi!</string>
+    <string name="notification_text">Data kamu sudah masuk</string>
+    <string name="update">Update Notification</string>
+    <string name="notification_channel_description">Notification from Mascot</string>
+    <string name="notification_channel_name">Mascot Notification</string>
+    <string name="add_santri">Add Santri</string>
+</resources>
